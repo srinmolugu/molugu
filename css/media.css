@@ -1,0 +1,227 @@
+.experience img {
+    height: 370px;
+    object-fit: cover;
+}
+.rough-block {
+    min-height: 320px;
+}
+@media only screen and (max-width:1770px){
+.experience img {
+    height: 400px;
+    object-fit: cover;
+}
+}
+@media only screen and (max-width:1550px){
+    .experience img {
+        height: auto;
+        object-fit: cover;
+    }
+    .rough-block {
+        min-height: 360px;
+    }
+}
+@media only screen and (max-width:968px){
+    .banner {
+        height: auto;
+        padding: 60px 0;
+    }
+    .container {
+        width: 90%;
+    }
+     .col-md-6.content-banner {
+        height: auto;
+        padding: 3vh 0;
+    }
+    .profile .col-md-2 {
+        width: 100%;
+    }
+    .block-box {
+        height: 250px;
+    }
+    .block-box img {
+        width: 41%;
+    }
+    .nav-tabs li a {
+        background: linear-gradient( 
+    45deg
+     ,#002b71, #017bd0);
+        color: #fff;
+        padding: 10px 4px;
+        font-size: 12px;
+    }
+    .nav-tabs li.active a{
+        padding: 10px 4px;
+        box-shadow: none;
+    }
+    .tab-pane p {
+        font-size: 15px;
+        line-height: 28px;
+        text-align: justify;
+    }
+    .set-1 {
+        width: 100px;
+        height: 100px;
+    }
+    .set-1 img {
+        filter: brightness(0) invert(1);
+        width: 75%;
+    }
+    .block{
+        position: static;
+    }
+    .block2{
+        position: static;
+    }
+    .block3{
+        position: static;
+    }
+    .ant img{
+        width:150px;
+    }
+    .content-banner h3 {
+        color: #fff;
+        line-height: 34px;
+        font-size: 18px;
+    }
+    .content-banner button a {
+        padding: 8px 18px;
+        font-size: 14px;
+    }
+    .ant img {
+        display: none;
+    }
+    .inner-block {
+        transform: rotate( 
+    -45deg
+    ) translate(-9px, 14px);
+    }
+    .block {
+        width: 100px;
+        height: 100px;
+    }
+    .block2 {
+        width: 100px;
+        height: 100px;
+    }
+    .block2 .inner-block {
+        transform: rotate( 
+    -45deg
+    ) translate(-18px, 14px);
+    }
+    .block3 {
+        width: 100px;
+        height: 100px;
+    }
+    .block3 .inner-block {
+        transform: rotate( 
+    -45deg
+     ) translate(-7px, 3px);
+    }
+}
+
+
+
+@media only screen and (max-width:767px){
+    .nav-tabs>li {
+        width: auto;
+    }
+    .five-column .col-md-3 {
+        width: 100%;
+    }
+    .banner {
+        height: auto;
+        padding: 60px 0;
+    }
+    .container {
+        width: 96%;
+    }
+     .col-md-6.content-banner {
+        height: auto;
+        padding: 3vh 0;
+    }
+    .profile .col-md-2 {
+        width: 100%;
+    }
+    .block-box {
+        height: 250px;
+    }
+    .block-box img {
+        width: 41%;
+    }
+    .nav-tabs li a {
+        background: linear-gradient( 
+    45deg
+     ,#002b71, #017bd0);
+        color: #fff;
+        padding: 10px 4px;
+        font-size: 12px;
+    }
+    .nav-tabs li.active a{
+        padding: 10px 4px;
+        box-shadow: none;
+    }
+    .tab-pane p {
+        font-size: 15px;
+        line-height: 28px;
+        text-align: justify;
+    }
+    .set-1 {
+        width: 100px;
+        height: 100px;
+    }
+    .set-1 img {
+        filter: brightness(0) invert(1);
+        width: 75%;
+    }
+    .block{
+        position: static;
+    }
+    .block2{
+        position: static;
+    }
+    .block3{
+        position: static;
+    }
+    .ant img{
+        width:150px;
+    }
+    .content-banner h3 {
+        color: #fff;
+        line-height: 34px;
+        font-size: 18px;
+    }
+    .content-banner button a {
+        padding: 8px 18px;
+        font-size: 14px;
+    }
+    .ant img {
+        display: none;
+    }
+    .inner-block {
+        transform: rotate( 
+    -45deg
+    ) translate(-9px, 14px);
+    }
+    .block {
+        width: 100px;
+        height: 100px;
+    }
+    .block2 {
+        width: 100px;
+        height: 100px;
+    }
+    .block2 .inner-block {
+        transform: rotate( 
+    -45deg
+    ) translate(-18px, 14px);
+    }
+    .block3 {
+        width: 100px;
+        height: 100px;
+    }
+    .block3 .inner-block {
+        transform: rotate( 
+    -45deg
+     ) translate(-7px, 3px);
+    }
+}
