@@ -102,7 +102,7 @@ footer {
     text-align: center;
     padding: 10px;
     border-radius: 15px;
-    height: 180px;
+    height: auto;
     margin-top: 20px;
     background: #fff;
     margin-bottom: 9px;
@@ -111,10 +111,8 @@ footer {
 .block-box img {
     width: 100%;
     position: relative;
-    top: 50%;
-    padding: 10px;
-    transform: translateY(-50%);
-    height: 190px;
+    padding: 0px;
+    height: auto;
     filter: brightness(1.1);
     object-fit: cover;
     border-radius: 20px;
