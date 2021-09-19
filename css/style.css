@@ -67,7 +67,7 @@ li.last-menu {
 }
 
 a.navbar-brand.name-ashwin {
-    background:#0d7974;
+    background:#ffdc73;
     color: #fff;
     padding: 10px;
     border-radius: 6px;
@@ -76,7 +76,7 @@ a.navbar-brand.name-ashwin {
 /*banner*/
 /*footer*/
 footer {
-    background: #0d7974;
+    background: #ffdc73;
 }
 .footer-box {
     padding: 10px 0;
@@ -124,7 +124,7 @@ footer {
     transform: translateY(-12px);
 }
 .skilled-box:hover .block-box{
-    background:#0d7974;
+    background:#ffdc73;
 }
 
 
@@ -149,7 +149,7 @@ section.profile {
     left: 50%;
     transform: translateX(-50%);
     content: '';
-    background: #0d7974;
+    background: #ffdc73;
     height: 3px;
     width: 150px;
     border-radius: 50px;
