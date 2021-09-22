@@ -22,4 +22,7 @@
         float: left;
         min-height: 264px;
     }
+    .profile p {
+        font-size: 15px;
+    }
 }
