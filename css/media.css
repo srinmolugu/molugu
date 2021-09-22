@@ -125,7 +125,7 @@
     .nav-tabs>li {
         width: auto;
     }
-    .five-column .col-md-3 {
+    .five-column .col-md-3 col-xs-6 {
         width: 100%;
     }
     .banner {
