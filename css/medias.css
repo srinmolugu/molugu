@@ -14,4 +14,8 @@
         width:50%;
         float: left;
     }
+    .five-column .col-md-3 {
+        width:50%;
+        float: left;
+    }
 }
