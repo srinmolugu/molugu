@@ -129,7 +129,7 @@ footer {
 
 
 
-.five-column .col-md-3 col-xs-6{
+.five-column .col-md-3{
 width:20%;
 }
 section.profile {
@@ -177,7 +177,7 @@ h3{
 
 @media only screen and (max-width:767px){
    
-    .five-column .col-md-3 col-xs-6 {
+    .five-column .col-md-3 {
         width: 100%;
     }
 }
