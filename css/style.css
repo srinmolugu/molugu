@@ -158,8 +158,9 @@ section.profile {
 .profile p {
     text-align: center;
     color: #000;
-    font-size: 17px;
-    line-height: 23px;
+    font-size: 16px;
+    line-height: 21px;
+    min-height: 50px;
 }
 h3{
     text-align: center;
