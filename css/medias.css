@@ -5,22 +5,21 @@
     .col-md-3 {
         width: 50%;
         float: left;
-        min-height: 264px;
+        
     }
     .col-md-4{
         width: 50%;
         float: left;
-        min-height: 264px;
     }
     .col-md-2{
         width: 50%;
         float: left;
-        min-height: 264px;
+        
     }
     .five-column .col-md-3 {
         width: 50%;
         float: left;
-        min-height: 264px;
+        
     }
     .profile p {
         font-size: 15px;
