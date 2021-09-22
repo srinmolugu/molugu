@@ -4,11 +4,14 @@
 @media only screen and (max-width:767px){
     .col-md-3{
         width:50%;
+        float: left;
     }
     .col-md-4{
         width:50%;
+        float: left;
     }
     .col-md-2{
         width:50%;
+        float: left;
     }
 }
